@@ -1,4 +1,4 @@
-# blog-app
+# Vue-Jsonp Practice: A WebApp displaying Book Info from Douban.com
 
 > A Vue.js project
 
